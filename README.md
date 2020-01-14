@@ -3,7 +3,7 @@
 
 Custom Tableview with Iconic header.
 
-![Screenshot](https://github.com/amr-abdelfattah/iOS-OptionMenu/blob/v2.0.1/ScreenShots/demo.gif)
+![Screenshot](https://github.com/amr-abdelfattah/IconicSideHeaderTableViewExample/ScreenShots/demo.gif)
 
 
 ## Requirements
