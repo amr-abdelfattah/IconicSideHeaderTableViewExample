@@ -3,8 +3,11 @@
 
 Custom Tableview with Iconic header.
 
-![Screenshot](https://github.com/amr-abdelfattah/iOS-IconicSideHeaderTableViewExample/blob/master/ScreenShots/screenshot.png)
+<img src="https://github.com/amr-abdelfattah/iOS-IconicSideHeaderTableViewExample/blob/master/ScreenShots/screenshot.png" width="236" height="480" />
+
 ![Demo](https://github.com/amr-abdelfattah/iOS-IconicSideHeaderTableViewExample/blob/master/ScreenShots/demo.gif)
+
+
 
 
 
