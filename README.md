@@ -3,7 +3,7 @@
 
 Custom Tableview with Iconic header.
 
-![Screenshot](https://github.com/amr-abdelfattah/IconicSideHeaderTableViewExample/ScreenShots/demo.gif)
+![Screenshot](https://github.com/amr-abdelfattah/IconicSideHeaderTableViewExample/tree/master/ScreenShots/demo.gif)
 
 
 ## Requirements
